@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$("a").map(function(a, b){if($(this).attr("href").indexOf("http") == -1) $(this).attr("href", window.location.origin + "/tttn" + $(this).attr("href"))});
+	$("a").map(function(a, b){if($(this).attr("href").indexOf("http") == -1) $(this).attr("href", window.location.origin + "/TTTN-2015/trunk" + $(this).attr("href"))});
 	$("#member #key").keyup(function(){
 		var key = $("#member #key").val();
 		$("#searchResult .col-lg-6").css({"display": "none"});

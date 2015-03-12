@@ -6,7 +6,7 @@
 	define("SPRINT", "SPRINT");
 	define("TASK", "TASK");
 	
-	define("SITE", "http://localhost/tttn/");
+	define("SITE", "http://localhost/TTTN-2015/trunk/");
 	define("PAGE", "http://localhost/tttnphp/?p=");
 	
 	define ("ACCOUNT", "account");
